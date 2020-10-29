@@ -1,0 +1,2700 @@
+msgid "%{some_placeholder} - fr errors 1 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 1 some text translated"
+
+msgid "%{some_placeholder} - fr errors 2 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 2 some text translated"
+
+msgid "%{some_placeholder} - fr errors 3 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 3 some text translated"
+
+msgid "%{some_placeholder} - fr errors 4 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 4 some text translated"
+
+msgid "%{some_placeholder} - fr errors 5 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 5 some text translated"
+
+msgid "%{some_placeholder} - fr errors 6 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 6 some text translated"
+
+msgid "%{some_placeholder} - fr errors 7 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 7 some text translated"
+
+msgid "%{some_placeholder} - fr errors 8 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 8 some text translated"
+
+msgid "%{some_placeholder} - fr errors 9 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 9 some text translated"
+
+msgid "%{some_placeholder} - fr errors 10 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 10 some text translated"
+
+msgid "%{some_placeholder} - fr errors 11 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 11 some text translated"
+
+msgid "%{some_placeholder} - fr errors 12 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 12 some text translated"
+
+msgid "%{some_placeholder} - fr errors 13 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 13 some text translated"
+
+msgid "%{some_placeholder} - fr errors 14 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 14 some text translated"
+
+msgid "%{some_placeholder} - fr errors 15 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 15 some text translated"
+
+msgid "%{some_placeholder} - fr errors 16 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 16 some text translated"
+
+msgid "%{some_placeholder} - fr errors 17 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 17 some text translated"
+
+msgid "%{some_placeholder} - fr errors 18 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 18 some text translated"
+
+msgid "%{some_placeholder} - fr errors 19 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 19 some text translated"
+
+msgid "%{some_placeholder} - fr errors 20 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 20 some text translated"
+
+msgid "%{some_placeholder} - fr errors 21 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 21 some text translated"
+
+msgid "%{some_placeholder} - fr errors 22 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 22 some text translated"
+
+msgid "%{some_placeholder} - fr errors 23 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 23 some text translated"
+
+msgid "%{some_placeholder} - fr errors 24 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 24 some text translated"
+
+msgid "%{some_placeholder} - fr errors 25 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 25 some text translated"
+
+msgid "%{some_placeholder} - fr errors 26 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 26 some text translated"
+
+msgid "%{some_placeholder} - fr errors 27 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 27 some text translated"
+
+msgid "%{some_placeholder} - fr errors 28 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 28 some text translated"
+
+msgid "%{some_placeholder} - fr errors 29 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 29 some text translated"
+
+msgid "%{some_placeholder} - fr errors 30 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 30 some text translated"
+
+msgid "%{some_placeholder} - fr errors 31 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 31 some text translated"
+
+msgid "%{some_placeholder} - fr errors 32 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 32 some text translated"
+
+msgid "%{some_placeholder} - fr errors 33 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 33 some text translated"
+
+msgid "%{some_placeholder} - fr errors 34 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 34 some text translated"
+
+msgid "%{some_placeholder} - fr errors 35 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 35 some text translated"
+
+msgid "%{some_placeholder} - fr errors 36 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 36 some text translated"
+
+msgid "%{some_placeholder} - fr errors 37 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 37 some text translated"
+
+msgid "%{some_placeholder} - fr errors 38 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 38 some text translated"
+
+msgid "%{some_placeholder} - fr errors 39 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 39 some text translated"
+
+msgid "%{some_placeholder} - fr errors 40 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 40 some text translated"
+
+msgid "%{some_placeholder} - fr errors 41 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 41 some text translated"
+
+msgid "%{some_placeholder} - fr errors 42 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 42 some text translated"
+
+msgid "%{some_placeholder} - fr errors 43 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 43 some text translated"
+
+msgid "%{some_placeholder} - fr errors 44 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 44 some text translated"
+
+msgid "%{some_placeholder} - fr errors 45 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 45 some text translated"
+
+msgid "%{some_placeholder} - fr errors 46 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 46 some text translated"
+
+msgid "%{some_placeholder} - fr errors 47 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 47 some text translated"
+
+msgid "%{some_placeholder} - fr errors 48 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 48 some text translated"
+
+msgid "%{some_placeholder} - fr errors 49 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 49 some text translated"
+
+msgid "%{some_placeholder} - fr errors 50 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 50 some text translated"
+
+msgid "%{some_placeholder} - fr errors 51 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 51 some text translated"
+
+msgid "%{some_placeholder} - fr errors 52 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 52 some text translated"
+
+msgid "%{some_placeholder} - fr errors 53 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 53 some text translated"
+
+msgid "%{some_placeholder} - fr errors 54 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 54 some text translated"
+
+msgid "%{some_placeholder} - fr errors 55 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 55 some text translated"
+
+msgid "%{some_placeholder} - fr errors 56 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 56 some text translated"
+
+msgid "%{some_placeholder} - fr errors 57 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 57 some text translated"
+
+msgid "%{some_placeholder} - fr errors 58 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 58 some text translated"
+
+msgid "%{some_placeholder} - fr errors 59 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 59 some text translated"
+
+msgid "%{some_placeholder} - fr errors 60 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 60 some text translated"
+
+msgid "%{some_placeholder} - fr errors 61 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 61 some text translated"
+
+msgid "%{some_placeholder} - fr errors 62 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 62 some text translated"
+
+msgid "%{some_placeholder} - fr errors 63 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 63 some text translated"
+
+msgid "%{some_placeholder} - fr errors 64 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 64 some text translated"
+
+msgid "%{some_placeholder} - fr errors 65 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 65 some text translated"
+
+msgid "%{some_placeholder} - fr errors 66 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 66 some text translated"
+
+msgid "%{some_placeholder} - fr errors 67 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 67 some text translated"
+
+msgid "%{some_placeholder} - fr errors 68 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 68 some text translated"
+
+msgid "%{some_placeholder} - fr errors 69 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 69 some text translated"
+
+msgid "%{some_placeholder} - fr errors 70 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 70 some text translated"
+
+msgid "%{some_placeholder} - fr errors 71 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 71 some text translated"
+
+msgid "%{some_placeholder} - fr errors 72 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 72 some text translated"
+
+msgid "%{some_placeholder} - fr errors 73 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 73 some text translated"
+
+msgid "%{some_placeholder} - fr errors 74 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 74 some text translated"
+
+msgid "%{some_placeholder} - fr errors 75 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 75 some text translated"
+
+msgid "%{some_placeholder} - fr errors 76 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 76 some text translated"
+
+msgid "%{some_placeholder} - fr errors 77 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 77 some text translated"
+
+msgid "%{some_placeholder} - fr errors 78 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 78 some text translated"
+
+msgid "%{some_placeholder} - fr errors 79 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 79 some text translated"
+
+msgid "%{some_placeholder} - fr errors 80 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 80 some text translated"
+
+msgid "%{some_placeholder} - fr errors 81 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 81 some text translated"
+
+msgid "%{some_placeholder} - fr errors 82 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 82 some text translated"
+
+msgid "%{some_placeholder} - fr errors 83 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 83 some text translated"
+
+msgid "%{some_placeholder} - fr errors 84 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 84 some text translated"
+
+msgid "%{some_placeholder} - fr errors 85 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 85 some text translated"
+
+msgid "%{some_placeholder} - fr errors 86 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 86 some text translated"
+
+msgid "%{some_placeholder} - fr errors 87 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 87 some text translated"
+
+msgid "%{some_placeholder} - fr errors 88 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 88 some text translated"
+
+msgid "%{some_placeholder} - fr errors 89 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 89 some text translated"
+
+msgid "%{some_placeholder} - fr errors 90 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 90 some text translated"
+
+msgid "%{some_placeholder} - fr errors 91 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 91 some text translated"
+
+msgid "%{some_placeholder} - fr errors 92 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 92 some text translated"
+
+msgid "%{some_placeholder} - fr errors 93 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 93 some text translated"
+
+msgid "%{some_placeholder} - fr errors 94 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 94 some text translated"
+
+msgid "%{some_placeholder} - fr errors 95 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 95 some text translated"
+
+msgid "%{some_placeholder} - fr errors 96 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 96 some text translated"
+
+msgid "%{some_placeholder} - fr errors 97 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 97 some text translated"
+
+msgid "%{some_placeholder} - fr errors 98 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 98 some text translated"
+
+msgid "%{some_placeholder} - fr errors 99 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 99 some text translated"
+
+msgid "%{some_placeholder} - fr errors 100 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 100 some text translated"
+
+msgid "%{some_placeholder} - fr errors 101 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 101 some text translated"
+
+msgid "%{some_placeholder} - fr errors 102 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 102 some text translated"
+
+msgid "%{some_placeholder} - fr errors 103 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 103 some text translated"
+
+msgid "%{some_placeholder} - fr errors 104 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 104 some text translated"
+
+msgid "%{some_placeholder} - fr errors 105 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 105 some text translated"
+
+msgid "%{some_placeholder} - fr errors 106 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 106 some text translated"
+
+msgid "%{some_placeholder} - fr errors 107 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 107 some text translated"
+
+msgid "%{some_placeholder} - fr errors 108 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 108 some text translated"
+
+msgid "%{some_placeholder} - fr errors 109 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 109 some text translated"
+
+msgid "%{some_placeholder} - fr errors 110 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 110 some text translated"
+
+msgid "%{some_placeholder} - fr errors 111 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 111 some text translated"
+
+msgid "%{some_placeholder} - fr errors 112 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 112 some text translated"
+
+msgid "%{some_placeholder} - fr errors 113 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 113 some text translated"
+
+msgid "%{some_placeholder} - fr errors 114 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 114 some text translated"
+
+msgid "%{some_placeholder} - fr errors 115 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 115 some text translated"
+
+msgid "%{some_placeholder} - fr errors 116 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 116 some text translated"
+
+msgid "%{some_placeholder} - fr errors 117 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 117 some text translated"
+
+msgid "%{some_placeholder} - fr errors 118 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 118 some text translated"
+
+msgid "%{some_placeholder} - fr errors 119 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 119 some text translated"
+
+msgid "%{some_placeholder} - fr errors 120 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 120 some text translated"
+
+msgid "%{some_placeholder} - fr errors 121 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 121 some text translated"
+
+msgid "%{some_placeholder} - fr errors 122 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 122 some text translated"
+
+msgid "%{some_placeholder} - fr errors 123 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 123 some text translated"
+
+msgid "%{some_placeholder} - fr errors 124 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 124 some text translated"
+
+msgid "%{some_placeholder} - fr errors 125 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 125 some text translated"
+
+msgid "%{some_placeholder} - fr errors 126 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 126 some text translated"
+
+msgid "%{some_placeholder} - fr errors 127 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 127 some text translated"
+
+msgid "%{some_placeholder} - fr errors 128 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 128 some text translated"
+
+msgid "%{some_placeholder} - fr errors 129 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 129 some text translated"
+
+msgid "%{some_placeholder} - fr errors 130 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 130 some text translated"
+
+msgid "%{some_placeholder} - fr errors 131 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 131 some text translated"
+
+msgid "%{some_placeholder} - fr errors 132 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 132 some text translated"
+
+msgid "%{some_placeholder} - fr errors 133 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 133 some text translated"
+
+msgid "%{some_placeholder} - fr errors 134 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 134 some text translated"
+
+msgid "%{some_placeholder} - fr errors 135 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 135 some text translated"
+
+msgid "%{some_placeholder} - fr errors 136 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 136 some text translated"
+
+msgid "%{some_placeholder} - fr errors 137 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 137 some text translated"
+
+msgid "%{some_placeholder} - fr errors 138 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 138 some text translated"
+
+msgid "%{some_placeholder} - fr errors 139 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 139 some text translated"
+
+msgid "%{some_placeholder} - fr errors 140 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 140 some text translated"
+
+msgid "%{some_placeholder} - fr errors 141 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 141 some text translated"
+
+msgid "%{some_placeholder} - fr errors 142 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 142 some text translated"
+
+msgid "%{some_placeholder} - fr errors 143 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 143 some text translated"
+
+msgid "%{some_placeholder} - fr errors 144 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 144 some text translated"
+
+msgid "%{some_placeholder} - fr errors 145 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 145 some text translated"
+
+msgid "%{some_placeholder} - fr errors 146 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 146 some text translated"
+
+msgid "%{some_placeholder} - fr errors 147 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 147 some text translated"
+
+msgid "%{some_placeholder} - fr errors 148 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 148 some text translated"
+
+msgid "%{some_placeholder} - fr errors 149 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 149 some text translated"
+
+msgid "%{some_placeholder} - fr errors 150 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 150 some text translated"
+
+msgid "%{some_placeholder} - fr errors 151 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 151 some text translated"
+
+msgid "%{some_placeholder} - fr errors 152 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 152 some text translated"
+
+msgid "%{some_placeholder} - fr errors 153 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 153 some text translated"
+
+msgid "%{some_placeholder} - fr errors 154 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 154 some text translated"
+
+msgid "%{some_placeholder} - fr errors 155 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 155 some text translated"
+
+msgid "%{some_placeholder} - fr errors 156 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 156 some text translated"
+
+msgid "%{some_placeholder} - fr errors 157 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 157 some text translated"
+
+msgid "%{some_placeholder} - fr errors 158 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 158 some text translated"
+
+msgid "%{some_placeholder} - fr errors 159 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 159 some text translated"
+
+msgid "%{some_placeholder} - fr errors 160 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 160 some text translated"
+
+msgid "%{some_placeholder} - fr errors 161 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 161 some text translated"
+
+msgid "%{some_placeholder} - fr errors 162 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 162 some text translated"
+
+msgid "%{some_placeholder} - fr errors 163 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 163 some text translated"
+
+msgid "%{some_placeholder} - fr errors 164 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 164 some text translated"
+
+msgid "%{some_placeholder} - fr errors 165 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 165 some text translated"
+
+msgid "%{some_placeholder} - fr errors 166 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 166 some text translated"
+
+msgid "%{some_placeholder} - fr errors 167 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 167 some text translated"
+
+msgid "%{some_placeholder} - fr errors 168 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 168 some text translated"
+
+msgid "%{some_placeholder} - fr errors 169 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 169 some text translated"
+
+msgid "%{some_placeholder} - fr errors 170 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 170 some text translated"
+
+msgid "%{some_placeholder} - fr errors 171 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 171 some text translated"
+
+msgid "%{some_placeholder} - fr errors 172 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 172 some text translated"
+
+msgid "%{some_placeholder} - fr errors 173 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 173 some text translated"
+
+msgid "%{some_placeholder} - fr errors 174 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 174 some text translated"
+
+msgid "%{some_placeholder} - fr errors 175 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 175 some text translated"
+
+msgid "%{some_placeholder} - fr errors 176 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 176 some text translated"
+
+msgid "%{some_placeholder} - fr errors 177 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 177 some text translated"
+
+msgid "%{some_placeholder} - fr errors 178 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 178 some text translated"
+
+msgid "%{some_placeholder} - fr errors 179 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 179 some text translated"
+
+msgid "%{some_placeholder} - fr errors 180 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 180 some text translated"
+
+msgid "%{some_placeholder} - fr errors 181 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 181 some text translated"
+
+msgid "%{some_placeholder} - fr errors 182 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 182 some text translated"
+
+msgid "%{some_placeholder} - fr errors 183 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 183 some text translated"
+
+msgid "%{some_placeholder} - fr errors 184 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 184 some text translated"
+
+msgid "%{some_placeholder} - fr errors 185 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 185 some text translated"
+
+msgid "%{some_placeholder} - fr errors 186 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 186 some text translated"
+
+msgid "%{some_placeholder} - fr errors 187 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 187 some text translated"
+
+msgid "%{some_placeholder} - fr errors 188 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 188 some text translated"
+
+msgid "%{some_placeholder} - fr errors 189 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 189 some text translated"
+
+msgid "%{some_placeholder} - fr errors 190 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 190 some text translated"
+
+msgid "%{some_placeholder} - fr errors 191 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 191 some text translated"
+
+msgid "%{some_placeholder} - fr errors 192 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 192 some text translated"
+
+msgid "%{some_placeholder} - fr errors 193 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 193 some text translated"
+
+msgid "%{some_placeholder} - fr errors 194 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 194 some text translated"
+
+msgid "%{some_placeholder} - fr errors 195 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 195 some text translated"
+
+msgid "%{some_placeholder} - fr errors 196 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 196 some text translated"
+
+msgid "%{some_placeholder} - fr errors 197 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 197 some text translated"
+
+msgid "%{some_placeholder} - fr errors 198 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 198 some text translated"
+
+msgid "%{some_placeholder} - fr errors 199 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 199 some text translated"
+
+msgid "%{some_placeholder} - fr errors 200 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 200 some text translated"
+
+msgid "%{some_placeholder} - fr errors 201 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 201 some text translated"
+
+msgid "%{some_placeholder} - fr errors 202 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 202 some text translated"
+
+msgid "%{some_placeholder} - fr errors 203 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 203 some text translated"
+
+msgid "%{some_placeholder} - fr errors 204 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 204 some text translated"
+
+msgid "%{some_placeholder} - fr errors 205 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 205 some text translated"
+
+msgid "%{some_placeholder} - fr errors 206 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 206 some text translated"
+
+msgid "%{some_placeholder} - fr errors 207 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 207 some text translated"
+
+msgid "%{some_placeholder} - fr errors 208 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 208 some text translated"
+
+msgid "%{some_placeholder} - fr errors 209 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 209 some text translated"
+
+msgid "%{some_placeholder} - fr errors 210 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 210 some text translated"
+
+msgid "%{some_placeholder} - fr errors 211 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 211 some text translated"
+
+msgid "%{some_placeholder} - fr errors 212 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 212 some text translated"
+
+msgid "%{some_placeholder} - fr errors 213 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 213 some text translated"
+
+msgid "%{some_placeholder} - fr errors 214 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 214 some text translated"
+
+msgid "%{some_placeholder} - fr errors 215 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 215 some text translated"
+
+msgid "%{some_placeholder} - fr errors 216 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 216 some text translated"
+
+msgid "%{some_placeholder} - fr errors 217 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 217 some text translated"
+
+msgid "%{some_placeholder} - fr errors 218 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 218 some text translated"
+
+msgid "%{some_placeholder} - fr errors 219 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 219 some text translated"
+
+msgid "%{some_placeholder} - fr errors 220 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 220 some text translated"
+
+msgid "%{some_placeholder} - fr errors 221 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 221 some text translated"
+
+msgid "%{some_placeholder} - fr errors 222 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 222 some text translated"
+
+msgid "%{some_placeholder} - fr errors 223 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 223 some text translated"
+
+msgid "%{some_placeholder} - fr errors 224 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 224 some text translated"
+
+msgid "%{some_placeholder} - fr errors 225 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 225 some text translated"
+
+msgid "%{some_placeholder} - fr errors 226 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 226 some text translated"
+
+msgid "%{some_placeholder} - fr errors 227 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 227 some text translated"
+
+msgid "%{some_placeholder} - fr errors 228 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 228 some text translated"
+
+msgid "%{some_placeholder} - fr errors 229 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 229 some text translated"
+
+msgid "%{some_placeholder} - fr errors 230 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 230 some text translated"
+
+msgid "%{some_placeholder} - fr errors 231 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 231 some text translated"
+
+msgid "%{some_placeholder} - fr errors 232 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 232 some text translated"
+
+msgid "%{some_placeholder} - fr errors 233 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 233 some text translated"
+
+msgid "%{some_placeholder} - fr errors 234 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 234 some text translated"
+
+msgid "%{some_placeholder} - fr errors 235 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 235 some text translated"
+
+msgid "%{some_placeholder} - fr errors 236 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 236 some text translated"
+
+msgid "%{some_placeholder} - fr errors 237 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 237 some text translated"
+
+msgid "%{some_placeholder} - fr errors 238 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 238 some text translated"
+
+msgid "%{some_placeholder} - fr errors 239 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 239 some text translated"
+
+msgid "%{some_placeholder} - fr errors 240 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 240 some text translated"
+
+msgid "%{some_placeholder} - fr errors 241 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 241 some text translated"
+
+msgid "%{some_placeholder} - fr errors 242 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 242 some text translated"
+
+msgid "%{some_placeholder} - fr errors 243 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 243 some text translated"
+
+msgid "%{some_placeholder} - fr errors 244 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 244 some text translated"
+
+msgid "%{some_placeholder} - fr errors 245 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 245 some text translated"
+
+msgid "%{some_placeholder} - fr errors 246 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 246 some text translated"
+
+msgid "%{some_placeholder} - fr errors 247 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 247 some text translated"
+
+msgid "%{some_placeholder} - fr errors 248 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 248 some text translated"
+
+msgid "%{some_placeholder} - fr errors 249 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 249 some text translated"
+
+msgid "%{some_placeholder} - fr errors 250 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 250 some text translated"
+
+msgid "%{some_placeholder} - fr errors 251 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 251 some text translated"
+
+msgid "%{some_placeholder} - fr errors 252 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 252 some text translated"
+
+msgid "%{some_placeholder} - fr errors 253 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 253 some text translated"
+
+msgid "%{some_placeholder} - fr errors 254 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 254 some text translated"
+
+msgid "%{some_placeholder} - fr errors 255 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 255 some text translated"
+
+msgid "%{some_placeholder} - fr errors 256 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 256 some text translated"
+
+msgid "%{some_placeholder} - fr errors 257 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 257 some text translated"
+
+msgid "%{some_placeholder} - fr errors 258 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 258 some text translated"
+
+msgid "%{some_placeholder} - fr errors 259 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 259 some text translated"
+
+msgid "%{some_placeholder} - fr errors 260 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 260 some text translated"
+
+msgid "%{some_placeholder} - fr errors 261 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 261 some text translated"
+
+msgid "%{some_placeholder} - fr errors 262 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 262 some text translated"
+
+msgid "%{some_placeholder} - fr errors 263 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 263 some text translated"
+
+msgid "%{some_placeholder} - fr errors 264 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 264 some text translated"
+
+msgid "%{some_placeholder} - fr errors 265 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 265 some text translated"
+
+msgid "%{some_placeholder} - fr errors 266 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 266 some text translated"
+
+msgid "%{some_placeholder} - fr errors 267 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 267 some text translated"
+
+msgid "%{some_placeholder} - fr errors 268 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 268 some text translated"
+
+msgid "%{some_placeholder} - fr errors 269 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 269 some text translated"
+
+msgid "%{some_placeholder} - fr errors 270 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 270 some text translated"
+
+msgid "%{some_placeholder} - fr errors 271 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 271 some text translated"
+
+msgid "%{some_placeholder} - fr errors 272 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 272 some text translated"
+
+msgid "%{some_placeholder} - fr errors 273 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 273 some text translated"
+
+msgid "%{some_placeholder} - fr errors 274 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 274 some text translated"
+
+msgid "%{some_placeholder} - fr errors 275 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 275 some text translated"
+
+msgid "%{some_placeholder} - fr errors 276 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 276 some text translated"
+
+msgid "%{some_placeholder} - fr errors 277 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 277 some text translated"
+
+msgid "%{some_placeholder} - fr errors 278 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 278 some text translated"
+
+msgid "%{some_placeholder} - fr errors 279 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 279 some text translated"
+
+msgid "%{some_placeholder} - fr errors 280 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 280 some text translated"
+
+msgid "%{some_placeholder} - fr errors 281 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 281 some text translated"
+
+msgid "%{some_placeholder} - fr errors 282 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 282 some text translated"
+
+msgid "%{some_placeholder} - fr errors 283 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 283 some text translated"
+
+msgid "%{some_placeholder} - fr errors 284 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 284 some text translated"
+
+msgid "%{some_placeholder} - fr errors 285 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 285 some text translated"
+
+msgid "%{some_placeholder} - fr errors 286 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 286 some text translated"
+
+msgid "%{some_placeholder} - fr errors 287 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 287 some text translated"
+
+msgid "%{some_placeholder} - fr errors 288 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 288 some text translated"
+
+msgid "%{some_placeholder} - fr errors 289 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 289 some text translated"
+
+msgid "%{some_placeholder} - fr errors 290 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 290 some text translated"
+
+msgid "%{some_placeholder} - fr errors 291 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 291 some text translated"
+
+msgid "%{some_placeholder} - fr errors 292 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 292 some text translated"
+
+msgid "%{some_placeholder} - fr errors 293 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 293 some text translated"
+
+msgid "%{some_placeholder} - fr errors 294 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 294 some text translated"
+
+msgid "%{some_placeholder} - fr errors 295 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 295 some text translated"
+
+msgid "%{some_placeholder} - fr errors 296 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 296 some text translated"
+
+msgid "%{some_placeholder} - fr errors 297 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 297 some text translated"
+
+msgid "%{some_placeholder} - fr errors 298 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 298 some text translated"
+
+msgid "%{some_placeholder} - fr errors 299 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 299 some text translated"
+
+msgid "%{some_placeholder} - fr errors 300 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 300 some text translated"
+
+msgid "%{some_placeholder} - fr errors 301 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 301 some text translated"
+
+msgid "%{some_placeholder} - fr errors 302 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 302 some text translated"
+
+msgid "%{some_placeholder} - fr errors 303 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 303 some text translated"
+
+msgid "%{some_placeholder} - fr errors 304 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 304 some text translated"
+
+msgid "%{some_placeholder} - fr errors 305 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 305 some text translated"
+
+msgid "%{some_placeholder} - fr errors 306 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 306 some text translated"
+
+msgid "%{some_placeholder} - fr errors 307 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 307 some text translated"
+
+msgid "%{some_placeholder} - fr errors 308 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 308 some text translated"
+
+msgid "%{some_placeholder} - fr errors 309 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 309 some text translated"
+
+msgid "%{some_placeholder} - fr errors 310 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 310 some text translated"
+
+msgid "%{some_placeholder} - fr errors 311 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 311 some text translated"
+
+msgid "%{some_placeholder} - fr errors 312 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 312 some text translated"
+
+msgid "%{some_placeholder} - fr errors 313 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 313 some text translated"
+
+msgid "%{some_placeholder} - fr errors 314 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 314 some text translated"
+
+msgid "%{some_placeholder} - fr errors 315 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 315 some text translated"
+
+msgid "%{some_placeholder} - fr errors 316 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 316 some text translated"
+
+msgid "%{some_placeholder} - fr errors 317 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 317 some text translated"
+
+msgid "%{some_placeholder} - fr errors 318 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 318 some text translated"
+
+msgid "%{some_placeholder} - fr errors 319 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 319 some text translated"
+
+msgid "%{some_placeholder} - fr errors 320 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 320 some text translated"
+
+msgid "%{some_placeholder} - fr errors 321 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 321 some text translated"
+
+msgid "%{some_placeholder} - fr errors 322 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 322 some text translated"
+
+msgid "%{some_placeholder} - fr errors 323 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 323 some text translated"
+
+msgid "%{some_placeholder} - fr errors 324 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 324 some text translated"
+
+msgid "%{some_placeholder} - fr errors 325 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 325 some text translated"
+
+msgid "%{some_placeholder} - fr errors 326 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 326 some text translated"
+
+msgid "%{some_placeholder} - fr errors 327 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 327 some text translated"
+
+msgid "%{some_placeholder} - fr errors 328 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 328 some text translated"
+
+msgid "%{some_placeholder} - fr errors 329 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 329 some text translated"
+
+msgid "%{some_placeholder} - fr errors 330 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 330 some text translated"
+
+msgid "%{some_placeholder} - fr errors 331 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 331 some text translated"
+
+msgid "%{some_placeholder} - fr errors 332 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 332 some text translated"
+
+msgid "%{some_placeholder} - fr errors 333 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 333 some text translated"
+
+msgid "%{some_placeholder} - fr errors 334 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 334 some text translated"
+
+msgid "%{some_placeholder} - fr errors 335 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 335 some text translated"
+
+msgid "%{some_placeholder} - fr errors 336 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 336 some text translated"
+
+msgid "%{some_placeholder} - fr errors 337 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 337 some text translated"
+
+msgid "%{some_placeholder} - fr errors 338 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 338 some text translated"
+
+msgid "%{some_placeholder} - fr errors 339 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 339 some text translated"
+
+msgid "%{some_placeholder} - fr errors 340 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 340 some text translated"
+
+msgid "%{some_placeholder} - fr errors 341 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 341 some text translated"
+
+msgid "%{some_placeholder} - fr errors 342 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 342 some text translated"
+
+msgid "%{some_placeholder} - fr errors 343 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 343 some text translated"
+
+msgid "%{some_placeholder} - fr errors 344 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 344 some text translated"
+
+msgid "%{some_placeholder} - fr errors 345 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 345 some text translated"
+
+msgid "%{some_placeholder} - fr errors 346 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 346 some text translated"
+
+msgid "%{some_placeholder} - fr errors 347 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 347 some text translated"
+
+msgid "%{some_placeholder} - fr errors 348 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 348 some text translated"
+
+msgid "%{some_placeholder} - fr errors 349 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 349 some text translated"
+
+msgid "%{some_placeholder} - fr errors 350 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 350 some text translated"
+
+msgid "%{some_placeholder} - fr errors 351 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 351 some text translated"
+
+msgid "%{some_placeholder} - fr errors 352 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 352 some text translated"
+
+msgid "%{some_placeholder} - fr errors 353 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 353 some text translated"
+
+msgid "%{some_placeholder} - fr errors 354 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 354 some text translated"
+
+msgid "%{some_placeholder} - fr errors 355 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 355 some text translated"
+
+msgid "%{some_placeholder} - fr errors 356 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 356 some text translated"
+
+msgid "%{some_placeholder} - fr errors 357 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 357 some text translated"
+
+msgid "%{some_placeholder} - fr errors 358 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 358 some text translated"
+
+msgid "%{some_placeholder} - fr errors 359 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 359 some text translated"
+
+msgid "%{some_placeholder} - fr errors 360 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 360 some text translated"
+
+msgid "%{some_placeholder} - fr errors 361 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 361 some text translated"
+
+msgid "%{some_placeholder} - fr errors 362 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 362 some text translated"
+
+msgid "%{some_placeholder} - fr errors 363 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 363 some text translated"
+
+msgid "%{some_placeholder} - fr errors 364 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 364 some text translated"
+
+msgid "%{some_placeholder} - fr errors 365 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 365 some text translated"
+
+msgid "%{some_placeholder} - fr errors 366 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 366 some text translated"
+
+msgid "%{some_placeholder} - fr errors 367 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 367 some text translated"
+
+msgid "%{some_placeholder} - fr errors 368 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 368 some text translated"
+
+msgid "%{some_placeholder} - fr errors 369 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 369 some text translated"
+
+msgid "%{some_placeholder} - fr errors 370 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 370 some text translated"
+
+msgid "%{some_placeholder} - fr errors 371 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 371 some text translated"
+
+msgid "%{some_placeholder} - fr errors 372 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 372 some text translated"
+
+msgid "%{some_placeholder} - fr errors 373 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 373 some text translated"
+
+msgid "%{some_placeholder} - fr errors 374 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 374 some text translated"
+
+msgid "%{some_placeholder} - fr errors 375 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 375 some text translated"
+
+msgid "%{some_placeholder} - fr errors 376 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 376 some text translated"
+
+msgid "%{some_placeholder} - fr errors 377 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 377 some text translated"
+
+msgid "%{some_placeholder} - fr errors 378 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 378 some text translated"
+
+msgid "%{some_placeholder} - fr errors 379 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 379 some text translated"
+
+msgid "%{some_placeholder} - fr errors 380 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 380 some text translated"
+
+msgid "%{some_placeholder} - fr errors 381 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 381 some text translated"
+
+msgid "%{some_placeholder} - fr errors 382 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 382 some text translated"
+
+msgid "%{some_placeholder} - fr errors 383 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 383 some text translated"
+
+msgid "%{some_placeholder} - fr errors 384 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 384 some text translated"
+
+msgid "%{some_placeholder} - fr errors 385 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 385 some text translated"
+
+msgid "%{some_placeholder} - fr errors 386 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 386 some text translated"
+
+msgid "%{some_placeholder} - fr errors 387 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 387 some text translated"
+
+msgid "%{some_placeholder} - fr errors 388 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 388 some text translated"
+
+msgid "%{some_placeholder} - fr errors 389 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 389 some text translated"
+
+msgid "%{some_placeholder} - fr errors 390 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 390 some text translated"
+
+msgid "%{some_placeholder} - fr errors 391 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 391 some text translated"
+
+msgid "%{some_placeholder} - fr errors 392 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 392 some text translated"
+
+msgid "%{some_placeholder} - fr errors 393 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 393 some text translated"
+
+msgid "%{some_placeholder} - fr errors 394 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 394 some text translated"
+
+msgid "%{some_placeholder} - fr errors 395 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 395 some text translated"
+
+msgid "%{some_placeholder} - fr errors 396 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 396 some text translated"
+
+msgid "%{some_placeholder} - fr errors 397 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 397 some text translated"
+
+msgid "%{some_placeholder} - fr errors 398 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 398 some text translated"
+
+msgid "%{some_placeholder} - fr errors 399 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 399 some text translated"
+
+msgid "%{some_placeholder} - fr errors 400 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 400 some text translated"
+
+msgid "%{some_placeholder} - fr errors 401 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 401 some text translated"
+
+msgid "%{some_placeholder} - fr errors 402 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 402 some text translated"
+
+msgid "%{some_placeholder} - fr errors 403 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 403 some text translated"
+
+msgid "%{some_placeholder} - fr errors 404 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 404 some text translated"
+
+msgid "%{some_placeholder} - fr errors 405 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 405 some text translated"
+
+msgid "%{some_placeholder} - fr errors 406 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 406 some text translated"
+
+msgid "%{some_placeholder} - fr errors 407 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 407 some text translated"
+
+msgid "%{some_placeholder} - fr errors 408 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 408 some text translated"
+
+msgid "%{some_placeholder} - fr errors 409 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 409 some text translated"
+
+msgid "%{some_placeholder} - fr errors 410 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 410 some text translated"
+
+msgid "%{some_placeholder} - fr errors 411 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 411 some text translated"
+
+msgid "%{some_placeholder} - fr errors 412 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 412 some text translated"
+
+msgid "%{some_placeholder} - fr errors 413 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 413 some text translated"
+
+msgid "%{some_placeholder} - fr errors 414 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 414 some text translated"
+
+msgid "%{some_placeholder} - fr errors 415 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 415 some text translated"
+
+msgid "%{some_placeholder} - fr errors 416 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 416 some text translated"
+
+msgid "%{some_placeholder} - fr errors 417 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 417 some text translated"
+
+msgid "%{some_placeholder} - fr errors 418 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 418 some text translated"
+
+msgid "%{some_placeholder} - fr errors 419 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 419 some text translated"
+
+msgid "%{some_placeholder} - fr errors 420 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 420 some text translated"
+
+msgid "%{some_placeholder} - fr errors 421 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 421 some text translated"
+
+msgid "%{some_placeholder} - fr errors 422 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 422 some text translated"
+
+msgid "%{some_placeholder} - fr errors 423 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 423 some text translated"
+
+msgid "%{some_placeholder} - fr errors 424 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 424 some text translated"
+
+msgid "%{some_placeholder} - fr errors 425 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 425 some text translated"
+
+msgid "%{some_placeholder} - fr errors 426 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 426 some text translated"
+
+msgid "%{some_placeholder} - fr errors 427 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 427 some text translated"
+
+msgid "%{some_placeholder} - fr errors 428 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 428 some text translated"
+
+msgid "%{some_placeholder} - fr errors 429 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 429 some text translated"
+
+msgid "%{some_placeholder} - fr errors 430 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 430 some text translated"
+
+msgid "%{some_placeholder} - fr errors 431 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 431 some text translated"
+
+msgid "%{some_placeholder} - fr errors 432 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 432 some text translated"
+
+msgid "%{some_placeholder} - fr errors 433 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 433 some text translated"
+
+msgid "%{some_placeholder} - fr errors 434 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 434 some text translated"
+
+msgid "%{some_placeholder} - fr errors 435 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 435 some text translated"
+
+msgid "%{some_placeholder} - fr errors 436 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 436 some text translated"
+
+msgid "%{some_placeholder} - fr errors 437 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 437 some text translated"
+
+msgid "%{some_placeholder} - fr errors 438 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 438 some text translated"
+
+msgid "%{some_placeholder} - fr errors 439 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 439 some text translated"
+
+msgid "%{some_placeholder} - fr errors 440 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 440 some text translated"
+
+msgid "%{some_placeholder} - fr errors 441 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 441 some text translated"
+
+msgid "%{some_placeholder} - fr errors 442 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 442 some text translated"
+
+msgid "%{some_placeholder} - fr errors 443 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 443 some text translated"
+
+msgid "%{some_placeholder} - fr errors 444 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 444 some text translated"
+
+msgid "%{some_placeholder} - fr errors 445 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 445 some text translated"
+
+msgid "%{some_placeholder} - fr errors 446 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 446 some text translated"
+
+msgid "%{some_placeholder} - fr errors 447 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 447 some text translated"
+
+msgid "%{some_placeholder} - fr errors 448 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 448 some text translated"
+
+msgid "%{some_placeholder} - fr errors 449 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 449 some text translated"
+
+msgid "%{some_placeholder} - fr errors 450 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 450 some text translated"
+
+msgid "%{some_placeholder} - fr errors 451 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 451 some text translated"
+
+msgid "%{some_placeholder} - fr errors 452 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 452 some text translated"
+
+msgid "%{some_placeholder} - fr errors 453 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 453 some text translated"
+
+msgid "%{some_placeholder} - fr errors 454 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 454 some text translated"
+
+msgid "%{some_placeholder} - fr errors 455 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 455 some text translated"
+
+msgid "%{some_placeholder} - fr errors 456 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 456 some text translated"
+
+msgid "%{some_placeholder} - fr errors 457 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 457 some text translated"
+
+msgid "%{some_placeholder} - fr errors 458 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 458 some text translated"
+
+msgid "%{some_placeholder} - fr errors 459 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 459 some text translated"
+
+msgid "%{some_placeholder} - fr errors 460 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 460 some text translated"
+
+msgid "%{some_placeholder} - fr errors 461 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 461 some text translated"
+
+msgid "%{some_placeholder} - fr errors 462 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 462 some text translated"
+
+msgid "%{some_placeholder} - fr errors 463 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 463 some text translated"
+
+msgid "%{some_placeholder} - fr errors 464 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 464 some text translated"
+
+msgid "%{some_placeholder} - fr errors 465 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 465 some text translated"
+
+msgid "%{some_placeholder} - fr errors 466 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 466 some text translated"
+
+msgid "%{some_placeholder} - fr errors 467 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 467 some text translated"
+
+msgid "%{some_placeholder} - fr errors 468 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 468 some text translated"
+
+msgid "%{some_placeholder} - fr errors 469 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 469 some text translated"
+
+msgid "%{some_placeholder} - fr errors 470 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 470 some text translated"
+
+msgid "%{some_placeholder} - fr errors 471 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 471 some text translated"
+
+msgid "%{some_placeholder} - fr errors 472 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 472 some text translated"
+
+msgid "%{some_placeholder} - fr errors 473 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 473 some text translated"
+
+msgid "%{some_placeholder} - fr errors 474 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 474 some text translated"
+
+msgid "%{some_placeholder} - fr errors 475 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 475 some text translated"
+
+msgid "%{some_placeholder} - fr errors 476 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 476 some text translated"
+
+msgid "%{some_placeholder} - fr errors 477 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 477 some text translated"
+
+msgid "%{some_placeholder} - fr errors 478 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 478 some text translated"
+
+msgid "%{some_placeholder} - fr errors 479 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 479 some text translated"
+
+msgid "%{some_placeholder} - fr errors 480 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 480 some text translated"
+
+msgid "%{some_placeholder} - fr errors 481 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 481 some text translated"
+
+msgid "%{some_placeholder} - fr errors 482 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 482 some text translated"
+
+msgid "%{some_placeholder} - fr errors 483 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 483 some text translated"
+
+msgid "%{some_placeholder} - fr errors 484 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 484 some text translated"
+
+msgid "%{some_placeholder} - fr errors 485 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 485 some text translated"
+
+msgid "%{some_placeholder} - fr errors 486 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 486 some text translated"
+
+msgid "%{some_placeholder} - fr errors 487 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 487 some text translated"
+
+msgid "%{some_placeholder} - fr errors 488 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 488 some text translated"
+
+msgid "%{some_placeholder} - fr errors 489 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 489 some text translated"
+
+msgid "%{some_placeholder} - fr errors 490 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 490 some text translated"
+
+msgid "%{some_placeholder} - fr errors 491 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 491 some text translated"
+
+msgid "%{some_placeholder} - fr errors 492 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 492 some text translated"
+
+msgid "%{some_placeholder} - fr errors 493 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 493 some text translated"
+
+msgid "%{some_placeholder} - fr errors 494 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 494 some text translated"
+
+msgid "%{some_placeholder} - fr errors 495 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 495 some text translated"
+
+msgid "%{some_placeholder} - fr errors 496 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 496 some text translated"
+
+msgid "%{some_placeholder} - fr errors 497 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 497 some text translated"
+
+msgid "%{some_placeholder} - fr errors 498 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 498 some text translated"
+
+msgid "%{some_placeholder} - fr errors 499 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 499 some text translated"
+
+msgid "%{some_placeholder} - fr errors 500 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 500 some text translated"
+
+msgid "%{some_placeholder} - fr errors 501 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 501 some text translated"
+
+msgid "%{some_placeholder} - fr errors 502 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 502 some text translated"
+
+msgid "%{some_placeholder} - fr errors 503 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 503 some text translated"
+
+msgid "%{some_placeholder} - fr errors 504 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 504 some text translated"
+
+msgid "%{some_placeholder} - fr errors 505 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 505 some text translated"
+
+msgid "%{some_placeholder} - fr errors 506 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 506 some text translated"
+
+msgid "%{some_placeholder} - fr errors 507 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 507 some text translated"
+
+msgid "%{some_placeholder} - fr errors 508 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 508 some text translated"
+
+msgid "%{some_placeholder} - fr errors 509 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 509 some text translated"
+
+msgid "%{some_placeholder} - fr errors 510 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 510 some text translated"
+
+msgid "%{some_placeholder} - fr errors 511 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 511 some text translated"
+
+msgid "%{some_placeholder} - fr errors 512 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 512 some text translated"
+
+msgid "%{some_placeholder} - fr errors 513 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 513 some text translated"
+
+msgid "%{some_placeholder} - fr errors 514 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 514 some text translated"
+
+msgid "%{some_placeholder} - fr errors 515 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 515 some text translated"
+
+msgid "%{some_placeholder} - fr errors 516 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 516 some text translated"
+
+msgid "%{some_placeholder} - fr errors 517 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 517 some text translated"
+
+msgid "%{some_placeholder} - fr errors 518 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 518 some text translated"
+
+msgid "%{some_placeholder} - fr errors 519 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 519 some text translated"
+
+msgid "%{some_placeholder} - fr errors 520 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 520 some text translated"
+
+msgid "%{some_placeholder} - fr errors 521 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 521 some text translated"
+
+msgid "%{some_placeholder} - fr errors 522 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 522 some text translated"
+
+msgid "%{some_placeholder} - fr errors 523 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 523 some text translated"
+
+msgid "%{some_placeholder} - fr errors 524 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 524 some text translated"
+
+msgid "%{some_placeholder} - fr errors 525 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 525 some text translated"
+
+msgid "%{some_placeholder} - fr errors 526 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 526 some text translated"
+
+msgid "%{some_placeholder} - fr errors 527 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 527 some text translated"
+
+msgid "%{some_placeholder} - fr errors 528 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 528 some text translated"
+
+msgid "%{some_placeholder} - fr errors 529 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 529 some text translated"
+
+msgid "%{some_placeholder} - fr errors 530 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 530 some text translated"
+
+msgid "%{some_placeholder} - fr errors 531 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 531 some text translated"
+
+msgid "%{some_placeholder} - fr errors 532 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 532 some text translated"
+
+msgid "%{some_placeholder} - fr errors 533 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 533 some text translated"
+
+msgid "%{some_placeholder} - fr errors 534 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 534 some text translated"
+
+msgid "%{some_placeholder} - fr errors 535 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 535 some text translated"
+
+msgid "%{some_placeholder} - fr errors 536 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 536 some text translated"
+
+msgid "%{some_placeholder} - fr errors 537 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 537 some text translated"
+
+msgid "%{some_placeholder} - fr errors 538 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 538 some text translated"
+
+msgid "%{some_placeholder} - fr errors 539 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 539 some text translated"
+
+msgid "%{some_placeholder} - fr errors 540 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 540 some text translated"
+
+msgid "%{some_placeholder} - fr errors 541 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 541 some text translated"
+
+msgid "%{some_placeholder} - fr errors 542 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 542 some text translated"
+
+msgid "%{some_placeholder} - fr errors 543 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 543 some text translated"
+
+msgid "%{some_placeholder} - fr errors 544 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 544 some text translated"
+
+msgid "%{some_placeholder} - fr errors 545 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 545 some text translated"
+
+msgid "%{some_placeholder} - fr errors 546 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 546 some text translated"
+
+msgid "%{some_placeholder} - fr errors 547 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 547 some text translated"
+
+msgid "%{some_placeholder} - fr errors 548 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 548 some text translated"
+
+msgid "%{some_placeholder} - fr errors 549 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 549 some text translated"
+
+msgid "%{some_placeholder} - fr errors 550 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 550 some text translated"
+
+msgid "%{some_placeholder} - fr errors 551 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 551 some text translated"
+
+msgid "%{some_placeholder} - fr errors 552 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 552 some text translated"
+
+msgid "%{some_placeholder} - fr errors 553 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 553 some text translated"
+
+msgid "%{some_placeholder} - fr errors 554 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 554 some text translated"
+
+msgid "%{some_placeholder} - fr errors 555 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 555 some text translated"
+
+msgid "%{some_placeholder} - fr errors 556 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 556 some text translated"
+
+msgid "%{some_placeholder} - fr errors 557 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 557 some text translated"
+
+msgid "%{some_placeholder} - fr errors 558 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 558 some text translated"
+
+msgid "%{some_placeholder} - fr errors 559 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 559 some text translated"
+
+msgid "%{some_placeholder} - fr errors 560 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 560 some text translated"
+
+msgid "%{some_placeholder} - fr errors 561 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 561 some text translated"
+
+msgid "%{some_placeholder} - fr errors 562 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 562 some text translated"
+
+msgid "%{some_placeholder} - fr errors 563 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 563 some text translated"
+
+msgid "%{some_placeholder} - fr errors 564 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 564 some text translated"
+
+msgid "%{some_placeholder} - fr errors 565 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 565 some text translated"
+
+msgid "%{some_placeholder} - fr errors 566 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 566 some text translated"
+
+msgid "%{some_placeholder} - fr errors 567 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 567 some text translated"
+
+msgid "%{some_placeholder} - fr errors 568 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 568 some text translated"
+
+msgid "%{some_placeholder} - fr errors 569 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 569 some text translated"
+
+msgid "%{some_placeholder} - fr errors 570 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 570 some text translated"
+
+msgid "%{some_placeholder} - fr errors 571 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 571 some text translated"
+
+msgid "%{some_placeholder} - fr errors 572 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 572 some text translated"
+
+msgid "%{some_placeholder} - fr errors 573 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 573 some text translated"
+
+msgid "%{some_placeholder} - fr errors 574 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 574 some text translated"
+
+msgid "%{some_placeholder} - fr errors 575 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 575 some text translated"
+
+msgid "%{some_placeholder} - fr errors 576 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 576 some text translated"
+
+msgid "%{some_placeholder} - fr errors 577 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 577 some text translated"
+
+msgid "%{some_placeholder} - fr errors 578 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 578 some text translated"
+
+msgid "%{some_placeholder} - fr errors 579 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 579 some text translated"
+
+msgid "%{some_placeholder} - fr errors 580 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 580 some text translated"
+
+msgid "%{some_placeholder} - fr errors 581 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 581 some text translated"
+
+msgid "%{some_placeholder} - fr errors 582 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 582 some text translated"
+
+msgid "%{some_placeholder} - fr errors 583 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 583 some text translated"
+
+msgid "%{some_placeholder} - fr errors 584 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 584 some text translated"
+
+msgid "%{some_placeholder} - fr errors 585 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 585 some text translated"
+
+msgid "%{some_placeholder} - fr errors 586 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 586 some text translated"
+
+msgid "%{some_placeholder} - fr errors 587 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 587 some text translated"
+
+msgid "%{some_placeholder} - fr errors 588 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 588 some text translated"
+
+msgid "%{some_placeholder} - fr errors 589 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 589 some text translated"
+
+msgid "%{some_placeholder} - fr errors 590 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 590 some text translated"
+
+msgid "%{some_placeholder} - fr errors 591 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 591 some text translated"
+
+msgid "%{some_placeholder} - fr errors 592 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 592 some text translated"
+
+msgid "%{some_placeholder} - fr errors 593 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 593 some text translated"
+
+msgid "%{some_placeholder} - fr errors 594 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 594 some text translated"
+
+msgid "%{some_placeholder} - fr errors 595 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 595 some text translated"
+
+msgid "%{some_placeholder} - fr errors 596 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 596 some text translated"
+
+msgid "%{some_placeholder} - fr errors 597 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 597 some text translated"
+
+msgid "%{some_placeholder} - fr errors 598 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 598 some text translated"
+
+msgid "%{some_placeholder} - fr errors 599 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 599 some text translated"
+
+msgid "%{some_placeholder} - fr errors 600 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 600 some text translated"
+
+msgid "%{some_placeholder} - fr errors 601 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 601 some text translated"
+
+msgid "%{some_placeholder} - fr errors 602 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 602 some text translated"
+
+msgid "%{some_placeholder} - fr errors 603 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 603 some text translated"
+
+msgid "%{some_placeholder} - fr errors 604 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 604 some text translated"
+
+msgid "%{some_placeholder} - fr errors 605 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 605 some text translated"
+
+msgid "%{some_placeholder} - fr errors 606 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 606 some text translated"
+
+msgid "%{some_placeholder} - fr errors 607 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 607 some text translated"
+
+msgid "%{some_placeholder} - fr errors 608 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 608 some text translated"
+
+msgid "%{some_placeholder} - fr errors 609 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 609 some text translated"
+
+msgid "%{some_placeholder} - fr errors 610 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 610 some text translated"
+
+msgid "%{some_placeholder} - fr errors 611 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 611 some text translated"
+
+msgid "%{some_placeholder} - fr errors 612 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 612 some text translated"
+
+msgid "%{some_placeholder} - fr errors 613 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 613 some text translated"
+
+msgid "%{some_placeholder} - fr errors 614 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 614 some text translated"
+
+msgid "%{some_placeholder} - fr errors 615 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 615 some text translated"
+
+msgid "%{some_placeholder} - fr errors 616 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 616 some text translated"
+
+msgid "%{some_placeholder} - fr errors 617 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 617 some text translated"
+
+msgid "%{some_placeholder} - fr errors 618 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 618 some text translated"
+
+msgid "%{some_placeholder} - fr errors 619 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 619 some text translated"
+
+msgid "%{some_placeholder} - fr errors 620 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 620 some text translated"
+
+msgid "%{some_placeholder} - fr errors 621 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 621 some text translated"
+
+msgid "%{some_placeholder} - fr errors 622 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 622 some text translated"
+
+msgid "%{some_placeholder} - fr errors 623 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 623 some text translated"
+
+msgid "%{some_placeholder} - fr errors 624 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 624 some text translated"
+
+msgid "%{some_placeholder} - fr errors 625 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 625 some text translated"
+
+msgid "%{some_placeholder} - fr errors 626 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 626 some text translated"
+
+msgid "%{some_placeholder} - fr errors 627 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 627 some text translated"
+
+msgid "%{some_placeholder} - fr errors 628 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 628 some text translated"
+
+msgid "%{some_placeholder} - fr errors 629 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 629 some text translated"
+
+msgid "%{some_placeholder} - fr errors 630 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 630 some text translated"
+
+msgid "%{some_placeholder} - fr errors 631 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 631 some text translated"
+
+msgid "%{some_placeholder} - fr errors 632 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 632 some text translated"
+
+msgid "%{some_placeholder} - fr errors 633 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 633 some text translated"
+
+msgid "%{some_placeholder} - fr errors 634 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 634 some text translated"
+
+msgid "%{some_placeholder} - fr errors 635 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 635 some text translated"
+
+msgid "%{some_placeholder} - fr errors 636 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 636 some text translated"
+
+msgid "%{some_placeholder} - fr errors 637 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 637 some text translated"
+
+msgid "%{some_placeholder} - fr errors 638 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 638 some text translated"
+
+msgid "%{some_placeholder} - fr errors 639 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 639 some text translated"
+
+msgid "%{some_placeholder} - fr errors 640 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 640 some text translated"
+
+msgid "%{some_placeholder} - fr errors 641 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 641 some text translated"
+
+msgid "%{some_placeholder} - fr errors 642 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 642 some text translated"
+
+msgid "%{some_placeholder} - fr errors 643 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 643 some text translated"
+
+msgid "%{some_placeholder} - fr errors 644 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 644 some text translated"
+
+msgid "%{some_placeholder} - fr errors 645 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 645 some text translated"
+
+msgid "%{some_placeholder} - fr errors 646 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 646 some text translated"
+
+msgid "%{some_placeholder} - fr errors 647 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 647 some text translated"
+
+msgid "%{some_placeholder} - fr errors 648 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 648 some text translated"
+
+msgid "%{some_placeholder} - fr errors 649 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 649 some text translated"
+
+msgid "%{some_placeholder} - fr errors 650 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 650 some text translated"
+
+msgid "%{some_placeholder} - fr errors 651 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 651 some text translated"
+
+msgid "%{some_placeholder} - fr errors 652 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 652 some text translated"
+
+msgid "%{some_placeholder} - fr errors 653 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 653 some text translated"
+
+msgid "%{some_placeholder} - fr errors 654 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 654 some text translated"
+
+msgid "%{some_placeholder} - fr errors 655 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 655 some text translated"
+
+msgid "%{some_placeholder} - fr errors 656 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 656 some text translated"
+
+msgid "%{some_placeholder} - fr errors 657 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 657 some text translated"
+
+msgid "%{some_placeholder} - fr errors 658 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 658 some text translated"
+
+msgid "%{some_placeholder} - fr errors 659 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 659 some text translated"
+
+msgid "%{some_placeholder} - fr errors 660 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 660 some text translated"
+
+msgid "%{some_placeholder} - fr errors 661 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 661 some text translated"
+
+msgid "%{some_placeholder} - fr errors 662 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 662 some text translated"
+
+msgid "%{some_placeholder} - fr errors 663 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 663 some text translated"
+
+msgid "%{some_placeholder} - fr errors 664 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 664 some text translated"
+
+msgid "%{some_placeholder} - fr errors 665 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 665 some text translated"
+
+msgid "%{some_placeholder} - fr errors 666 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 666 some text translated"
+
+msgid "%{some_placeholder} - fr errors 667 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 667 some text translated"
+
+msgid "%{some_placeholder} - fr errors 668 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 668 some text translated"
+
+msgid "%{some_placeholder} - fr errors 669 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 669 some text translated"
+
+msgid "%{some_placeholder} - fr errors 670 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 670 some text translated"
+
+msgid "%{some_placeholder} - fr errors 671 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 671 some text translated"
+
+msgid "%{some_placeholder} - fr errors 672 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 672 some text translated"
+
+msgid "%{some_placeholder} - fr errors 673 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 673 some text translated"
+
+msgid "%{some_placeholder} - fr errors 674 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 674 some text translated"
+
+msgid "%{some_placeholder} - fr errors 675 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 675 some text translated"
+
+msgid "%{some_placeholder} - fr errors 676 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 676 some text translated"
+
+msgid "%{some_placeholder} - fr errors 677 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 677 some text translated"
+
+msgid "%{some_placeholder} - fr errors 678 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 678 some text translated"
+
+msgid "%{some_placeholder} - fr errors 679 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 679 some text translated"
+
+msgid "%{some_placeholder} - fr errors 680 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 680 some text translated"
+
+msgid "%{some_placeholder} - fr errors 681 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 681 some text translated"
+
+msgid "%{some_placeholder} - fr errors 682 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 682 some text translated"
+
+msgid "%{some_placeholder} - fr errors 683 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 683 some text translated"
+
+msgid "%{some_placeholder} - fr errors 684 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 684 some text translated"
+
+msgid "%{some_placeholder} - fr errors 685 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 685 some text translated"
+
+msgid "%{some_placeholder} - fr errors 686 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 686 some text translated"
+
+msgid "%{some_placeholder} - fr errors 687 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 687 some text translated"
+
+msgid "%{some_placeholder} - fr errors 688 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 688 some text translated"
+
+msgid "%{some_placeholder} - fr errors 689 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 689 some text translated"
+
+msgid "%{some_placeholder} - fr errors 690 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 690 some text translated"
+
+msgid "%{some_placeholder} - fr errors 691 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 691 some text translated"
+
+msgid "%{some_placeholder} - fr errors 692 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 692 some text translated"
+
+msgid "%{some_placeholder} - fr errors 693 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 693 some text translated"
+
+msgid "%{some_placeholder} - fr errors 694 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 694 some text translated"
+
+msgid "%{some_placeholder} - fr errors 695 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 695 some text translated"
+
+msgid "%{some_placeholder} - fr errors 696 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 696 some text translated"
+
+msgid "%{some_placeholder} - fr errors 697 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 697 some text translated"
+
+msgid "%{some_placeholder} - fr errors 698 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 698 some text translated"
+
+msgid "%{some_placeholder} - fr errors 699 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 699 some text translated"
+
+msgid "%{some_placeholder} - fr errors 700 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 700 some text translated"
+
+msgid "%{some_placeholder} - fr errors 701 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 701 some text translated"
+
+msgid "%{some_placeholder} - fr errors 702 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 702 some text translated"
+
+msgid "%{some_placeholder} - fr errors 703 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 703 some text translated"
+
+msgid "%{some_placeholder} - fr errors 704 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 704 some text translated"
+
+msgid "%{some_placeholder} - fr errors 705 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 705 some text translated"
+
+msgid "%{some_placeholder} - fr errors 706 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 706 some text translated"
+
+msgid "%{some_placeholder} - fr errors 707 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 707 some text translated"
+
+msgid "%{some_placeholder} - fr errors 708 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 708 some text translated"
+
+msgid "%{some_placeholder} - fr errors 709 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 709 some text translated"
+
+msgid "%{some_placeholder} - fr errors 710 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 710 some text translated"
+
+msgid "%{some_placeholder} - fr errors 711 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 711 some text translated"
+
+msgid "%{some_placeholder} - fr errors 712 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 712 some text translated"
+
+msgid "%{some_placeholder} - fr errors 713 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 713 some text translated"
+
+msgid "%{some_placeholder} - fr errors 714 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 714 some text translated"
+
+msgid "%{some_placeholder} - fr errors 715 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 715 some text translated"
+
+msgid "%{some_placeholder} - fr errors 716 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 716 some text translated"
+
+msgid "%{some_placeholder} - fr errors 717 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 717 some text translated"
+
+msgid "%{some_placeholder} - fr errors 718 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 718 some text translated"
+
+msgid "%{some_placeholder} - fr errors 719 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 719 some text translated"
+
+msgid "%{some_placeholder} - fr errors 720 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 720 some text translated"
+
+msgid "%{some_placeholder} - fr errors 721 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 721 some text translated"
+
+msgid "%{some_placeholder} - fr errors 722 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 722 some text translated"
+
+msgid "%{some_placeholder} - fr errors 723 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 723 some text translated"
+
+msgid "%{some_placeholder} - fr errors 724 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 724 some text translated"
+
+msgid "%{some_placeholder} - fr errors 725 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 725 some text translated"
+
+msgid "%{some_placeholder} - fr errors 726 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 726 some text translated"
+
+msgid "%{some_placeholder} - fr errors 727 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 727 some text translated"
+
+msgid "%{some_placeholder} - fr errors 728 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 728 some text translated"
+
+msgid "%{some_placeholder} - fr errors 729 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 729 some text translated"
+
+msgid "%{some_placeholder} - fr errors 730 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 730 some text translated"
+
+msgid "%{some_placeholder} - fr errors 731 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 731 some text translated"
+
+msgid "%{some_placeholder} - fr errors 732 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 732 some text translated"
+
+msgid "%{some_placeholder} - fr errors 733 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 733 some text translated"
+
+msgid "%{some_placeholder} - fr errors 734 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 734 some text translated"
+
+msgid "%{some_placeholder} - fr errors 735 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 735 some text translated"
+
+msgid "%{some_placeholder} - fr errors 736 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 736 some text translated"
+
+msgid "%{some_placeholder} - fr errors 737 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 737 some text translated"
+
+msgid "%{some_placeholder} - fr errors 738 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 738 some text translated"
+
+msgid "%{some_placeholder} - fr errors 739 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 739 some text translated"
+
+msgid "%{some_placeholder} - fr errors 740 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 740 some text translated"
+
+msgid "%{some_placeholder} - fr errors 741 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 741 some text translated"
+
+msgid "%{some_placeholder} - fr errors 742 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 742 some text translated"
+
+msgid "%{some_placeholder} - fr errors 743 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 743 some text translated"
+
+msgid "%{some_placeholder} - fr errors 744 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 744 some text translated"
+
+msgid "%{some_placeholder} - fr errors 745 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 745 some text translated"
+
+msgid "%{some_placeholder} - fr errors 746 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 746 some text translated"
+
+msgid "%{some_placeholder} - fr errors 747 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 747 some text translated"
+
+msgid "%{some_placeholder} - fr errors 748 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 748 some text translated"
+
+msgid "%{some_placeholder} - fr errors 749 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 749 some text translated"
+
+msgid "%{some_placeholder} - fr errors 750 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 750 some text translated"
+
+msgid "%{some_placeholder} - fr errors 751 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 751 some text translated"
+
+msgid "%{some_placeholder} - fr errors 752 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 752 some text translated"
+
+msgid "%{some_placeholder} - fr errors 753 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 753 some text translated"
+
+msgid "%{some_placeholder} - fr errors 754 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 754 some text translated"
+
+msgid "%{some_placeholder} - fr errors 755 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 755 some text translated"
+
+msgid "%{some_placeholder} - fr errors 756 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 756 some text translated"
+
+msgid "%{some_placeholder} - fr errors 757 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 757 some text translated"
+
+msgid "%{some_placeholder} - fr errors 758 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 758 some text translated"
+
+msgid "%{some_placeholder} - fr errors 759 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 759 some text translated"
+
+msgid "%{some_placeholder} - fr errors 760 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 760 some text translated"
+
+msgid "%{some_placeholder} - fr errors 761 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 761 some text translated"
+
+msgid "%{some_placeholder} - fr errors 762 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 762 some text translated"
+
+msgid "%{some_placeholder} - fr errors 763 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 763 some text translated"
+
+msgid "%{some_placeholder} - fr errors 764 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 764 some text translated"
+
+msgid "%{some_placeholder} - fr errors 765 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 765 some text translated"
+
+msgid "%{some_placeholder} - fr errors 766 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 766 some text translated"
+
+msgid "%{some_placeholder} - fr errors 767 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 767 some text translated"
+
+msgid "%{some_placeholder} - fr errors 768 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 768 some text translated"
+
+msgid "%{some_placeholder} - fr errors 769 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 769 some text translated"
+
+msgid "%{some_placeholder} - fr errors 770 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 770 some text translated"
+
+msgid "%{some_placeholder} - fr errors 771 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 771 some text translated"
+
+msgid "%{some_placeholder} - fr errors 772 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 772 some text translated"
+
+msgid "%{some_placeholder} - fr errors 773 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 773 some text translated"
+
+msgid "%{some_placeholder} - fr errors 774 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 774 some text translated"
+
+msgid "%{some_placeholder} - fr errors 775 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 775 some text translated"
+
+msgid "%{some_placeholder} - fr errors 776 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 776 some text translated"
+
+msgid "%{some_placeholder} - fr errors 777 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 777 some text translated"
+
+msgid "%{some_placeholder} - fr errors 778 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 778 some text translated"
+
+msgid "%{some_placeholder} - fr errors 779 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 779 some text translated"
+
+msgid "%{some_placeholder} - fr errors 780 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 780 some text translated"
+
+msgid "%{some_placeholder} - fr errors 781 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 781 some text translated"
+
+msgid "%{some_placeholder} - fr errors 782 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 782 some text translated"
+
+msgid "%{some_placeholder} - fr errors 783 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 783 some text translated"
+
+msgid "%{some_placeholder} - fr errors 784 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 784 some text translated"
+
+msgid "%{some_placeholder} - fr errors 785 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 785 some text translated"
+
+msgid "%{some_placeholder} - fr errors 786 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 786 some text translated"
+
+msgid "%{some_placeholder} - fr errors 787 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 787 some text translated"
+
+msgid "%{some_placeholder} - fr errors 788 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 788 some text translated"
+
+msgid "%{some_placeholder} - fr errors 789 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 789 some text translated"
+
+msgid "%{some_placeholder} - fr errors 790 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 790 some text translated"
+
+msgid "%{some_placeholder} - fr errors 791 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 791 some text translated"
+
+msgid "%{some_placeholder} - fr errors 792 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 792 some text translated"
+
+msgid "%{some_placeholder} - fr errors 793 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 793 some text translated"
+
+msgid "%{some_placeholder} - fr errors 794 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 794 some text translated"
+
+msgid "%{some_placeholder} - fr errors 795 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 795 some text translated"
+
+msgid "%{some_placeholder} - fr errors 796 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 796 some text translated"
+
+msgid "%{some_placeholder} - fr errors 797 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 797 some text translated"
+
+msgid "%{some_placeholder} - fr errors 798 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 798 some text translated"
+
+msgid "%{some_placeholder} - fr errors 799 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 799 some text translated"
+
+msgid "%{some_placeholder} - fr errors 800 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 800 some text translated"
+
+msgid "%{some_placeholder} - fr errors 801 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 801 some text translated"
+
+msgid "%{some_placeholder} - fr errors 802 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 802 some text translated"
+
+msgid "%{some_placeholder} - fr errors 803 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 803 some text translated"
+
+msgid "%{some_placeholder} - fr errors 804 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 804 some text translated"
+
+msgid "%{some_placeholder} - fr errors 805 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 805 some text translated"
+
+msgid "%{some_placeholder} - fr errors 806 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 806 some text translated"
+
+msgid "%{some_placeholder} - fr errors 807 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 807 some text translated"
+
+msgid "%{some_placeholder} - fr errors 808 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 808 some text translated"
+
+msgid "%{some_placeholder} - fr errors 809 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 809 some text translated"
+
+msgid "%{some_placeholder} - fr errors 810 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 810 some text translated"
+
+msgid "%{some_placeholder} - fr errors 811 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 811 some text translated"
+
+msgid "%{some_placeholder} - fr errors 812 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 812 some text translated"
+
+msgid "%{some_placeholder} - fr errors 813 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 813 some text translated"
+
+msgid "%{some_placeholder} - fr errors 814 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 814 some text translated"
+
+msgid "%{some_placeholder} - fr errors 815 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 815 some text translated"
+
+msgid "%{some_placeholder} - fr errors 816 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 816 some text translated"
+
+msgid "%{some_placeholder} - fr errors 817 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 817 some text translated"
+
+msgid "%{some_placeholder} - fr errors 818 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 818 some text translated"
+
+msgid "%{some_placeholder} - fr errors 819 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 819 some text translated"
+
+msgid "%{some_placeholder} - fr errors 820 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 820 some text translated"
+
+msgid "%{some_placeholder} - fr errors 821 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 821 some text translated"
+
+msgid "%{some_placeholder} - fr errors 822 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 822 some text translated"
+
+msgid "%{some_placeholder} - fr errors 823 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 823 some text translated"
+
+msgid "%{some_placeholder} - fr errors 824 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 824 some text translated"
+
+msgid "%{some_placeholder} - fr errors 825 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 825 some text translated"
+
+msgid "%{some_placeholder} - fr errors 826 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 826 some text translated"
+
+msgid "%{some_placeholder} - fr errors 827 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 827 some text translated"
+
+msgid "%{some_placeholder} - fr errors 828 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 828 some text translated"
+
+msgid "%{some_placeholder} - fr errors 829 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 829 some text translated"
+
+msgid "%{some_placeholder} - fr errors 830 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 830 some text translated"
+
+msgid "%{some_placeholder} - fr errors 831 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 831 some text translated"
+
+msgid "%{some_placeholder} - fr errors 832 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 832 some text translated"
+
+msgid "%{some_placeholder} - fr errors 833 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 833 some text translated"
+
+msgid "%{some_placeholder} - fr errors 834 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 834 some text translated"
+
+msgid "%{some_placeholder} - fr errors 835 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 835 some text translated"
+
+msgid "%{some_placeholder} - fr errors 836 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 836 some text translated"
+
+msgid "%{some_placeholder} - fr errors 837 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 837 some text translated"
+
+msgid "%{some_placeholder} - fr errors 838 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 838 some text translated"
+
+msgid "%{some_placeholder} - fr errors 839 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 839 some text translated"
+
+msgid "%{some_placeholder} - fr errors 840 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 840 some text translated"
+
+msgid "%{some_placeholder} - fr errors 841 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 841 some text translated"
+
+msgid "%{some_placeholder} - fr errors 842 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 842 some text translated"
+
+msgid "%{some_placeholder} - fr errors 843 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 843 some text translated"
+
+msgid "%{some_placeholder} - fr errors 844 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 844 some text translated"
+
+msgid "%{some_placeholder} - fr errors 845 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 845 some text translated"
+
+msgid "%{some_placeholder} - fr errors 846 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 846 some text translated"
+
+msgid "%{some_placeholder} - fr errors 847 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 847 some text translated"
+
+msgid "%{some_placeholder} - fr errors 848 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 848 some text translated"
+
+msgid "%{some_placeholder} - fr errors 849 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 849 some text translated"
+
+msgid "%{some_placeholder} - fr errors 850 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 850 some text translated"
+
+msgid "%{some_placeholder} - fr errors 851 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 851 some text translated"
+
+msgid "%{some_placeholder} - fr errors 852 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 852 some text translated"
+
+msgid "%{some_placeholder} - fr errors 853 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 853 some text translated"
+
+msgid "%{some_placeholder} - fr errors 854 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 854 some text translated"
+
+msgid "%{some_placeholder} - fr errors 855 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 855 some text translated"
+
+msgid "%{some_placeholder} - fr errors 856 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 856 some text translated"
+
+msgid "%{some_placeholder} - fr errors 857 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 857 some text translated"
+
+msgid "%{some_placeholder} - fr errors 858 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 858 some text translated"
+
+msgid "%{some_placeholder} - fr errors 859 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 859 some text translated"
+
+msgid "%{some_placeholder} - fr errors 860 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 860 some text translated"
+
+msgid "%{some_placeholder} - fr errors 861 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 861 some text translated"
+
+msgid "%{some_placeholder} - fr errors 862 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 862 some text translated"
+
+msgid "%{some_placeholder} - fr errors 863 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 863 some text translated"
+
+msgid "%{some_placeholder} - fr errors 864 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 864 some text translated"
+
+msgid "%{some_placeholder} - fr errors 865 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 865 some text translated"
+
+msgid "%{some_placeholder} - fr errors 866 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 866 some text translated"
+
+msgid "%{some_placeholder} - fr errors 867 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 867 some text translated"
+
+msgid "%{some_placeholder} - fr errors 868 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 868 some text translated"
+
+msgid "%{some_placeholder} - fr errors 869 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 869 some text translated"
+
+msgid "%{some_placeholder} - fr errors 870 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 870 some text translated"
+
+msgid "%{some_placeholder} - fr errors 871 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 871 some text translated"
+
+msgid "%{some_placeholder} - fr errors 872 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 872 some text translated"
+
+msgid "%{some_placeholder} - fr errors 873 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 873 some text translated"
+
+msgid "%{some_placeholder} - fr errors 874 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 874 some text translated"
+
+msgid "%{some_placeholder} - fr errors 875 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 875 some text translated"
+
+msgid "%{some_placeholder} - fr errors 876 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 876 some text translated"
+
+msgid "%{some_placeholder} - fr errors 877 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 877 some text translated"
+
+msgid "%{some_placeholder} - fr errors 878 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 878 some text translated"
+
+msgid "%{some_placeholder} - fr errors 879 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 879 some text translated"
+
+msgid "%{some_placeholder} - fr errors 880 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 880 some text translated"
+
+msgid "%{some_placeholder} - fr errors 881 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 881 some text translated"
+
+msgid "%{some_placeholder} - fr errors 882 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 882 some text translated"
+
+msgid "%{some_placeholder} - fr errors 883 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 883 some text translated"
+
+msgid "%{some_placeholder} - fr errors 884 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 884 some text translated"
+
+msgid "%{some_placeholder} - fr errors 885 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 885 some text translated"
+
+msgid "%{some_placeholder} - fr errors 886 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 886 some text translated"
+
+msgid "%{some_placeholder} - fr errors 887 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 887 some text translated"
+
+msgid "%{some_placeholder} - fr errors 888 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 888 some text translated"
+
+msgid "%{some_placeholder} - fr errors 889 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 889 some text translated"
+
+msgid "%{some_placeholder} - fr errors 890 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 890 some text translated"
+
+msgid "%{some_placeholder} - fr errors 891 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 891 some text translated"
+
+msgid "%{some_placeholder} - fr errors 892 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 892 some text translated"
+
+msgid "%{some_placeholder} - fr errors 893 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 893 some text translated"
+
+msgid "%{some_placeholder} - fr errors 894 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 894 some text translated"
+
+msgid "%{some_placeholder} - fr errors 895 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 895 some text translated"
+
+msgid "%{some_placeholder} - fr errors 896 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 896 some text translated"
+
+msgid "%{some_placeholder} - fr errors 897 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 897 some text translated"
+
+msgid "%{some_placeholder} - fr errors 898 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 898 some text translated"
+
+msgid "%{some_placeholder} - fr errors 899 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 899 some text translated"
+
+msgid "%{some_placeholder} - fr errors 900 some text to be translated"
+msgstr "%{some_placeholder} - fr errors 900 some text translated"
+
